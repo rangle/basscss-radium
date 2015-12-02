@@ -45,6 +45,8 @@ Badge.propTypes = {
 module.exports = Radium(Badge);
 ```
 
+Pssst...jump into the [playground to see it in action](https://tonicdev.com/bertrand/basscss-radium).
+
 ## Credits and License
 [Brent Jackson](https://github.com/jxnblk) (jxnblk.com) is the original
 creator and maintainer of [Basscss](https://github.com/basscss/basscss).
