@@ -23,10 +23,10 @@ const Badge = ({ text }) => {
   return (
     <span style={[
       Bass.h2,
-      Bass['inline-block'],
+      Bass.inlineBlock,
       Bass.px1,
       Bass.white,
-      Bass['bg-red'],
+      Bass.bgRed,
       Bass.rounded,
     ]}>
       { text }
@@ -42,7 +42,7 @@ Badge.propTypes = {
   text: React.PropTypes.string,
 };
 
-module.exports = Badge;
+module.exports = Radium(Badge);
 ```
 
 ## Credits and License
