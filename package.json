@@ -1,6 +1,6 @@
 {
   "name": "basscss-radium",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Basscss as Radium-flavoured inline styles.",
   "main": "index.js",
   "scripts": {
