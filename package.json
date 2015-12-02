@@ -1,0 +1,32 @@
+{
+  "name": "basscss-radium",
+  "version": "0.0.1",
+  "description": "Basscss as Radium-flavoured inline styles.",
+  "main": "index.js",
+  "scripts": {
+    "prepublish": "make build",
+    "test": "node -e 'require(\"./index\")'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangle/basscss-radium.git"
+  },
+  "keywords": [
+    "basscss",
+    "css",
+    "oocss",
+    "react",
+    "radium",
+    "styles"
+  ],
+  "author": "Rangle.io <basscss-radium@rangle.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rangle/basscss-radium/issues"
+  },
+  "homepage": "https://github.com/rangle/basscss-radium#readme",
+  "devDependencies": {
+    "basscss": "^7.0.4",
+    "css-to-radium": "rangle/css-to-radium#ae1e307"
+  }
+}
