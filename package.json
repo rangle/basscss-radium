@@ -27,6 +27,6 @@
   "homepage": "https://github.com/rangle/basscss-radium#readme",
   "devDependencies": {
     "basscss": "^7.0.4",
-    "css-to-radium": "rangle/css-to-radium#68c02a2"
+    "css-to-radium": "rangle/css-to-radium#869f3fa"
   }
 }
