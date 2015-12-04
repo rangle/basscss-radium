@@ -1,7 +1,7 @@
 # basscss-radium
 <img src="./tag.png" width="48"> Basscss as Radium-flavoured inline
 styles.
-
+[![Circle CI](https://circleci.com/gh/rangle/basscss-radium.svg?style=svg&circle-token=1f19b60b29cf291a63c57d0395668e202cfe5067)](https://circleci.com/gh/rangle/basscss-radium)
 
 ## Getting Started
 ```
